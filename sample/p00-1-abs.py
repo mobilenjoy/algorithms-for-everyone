@@ -17,7 +17,7 @@ def abs_sign(a):
 def abs_square(a):
     b = a * a
     return math.sqrt(b)  # 수학 모듈의 제곱근 함수
-
+  
 print(abs_sign(5))
 print(abs_sign(-3))
 print()
